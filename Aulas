@@ -1,4 +1,0 @@
-public class ProgramaJava1.java
-             public static void main (string []args)
-            system-out printin ("Meu primeiro programa Java");
-}
