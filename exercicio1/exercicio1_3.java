@@ -1,7 +1,6 @@
 public class Exercicio1_3{
-	public static void main (String []args{
-		String parametro = args[0];
-		String texto = “O parametro foi:”+ parametro;
+	public static void main (String []args){
+	
 
 		
 		int A;
