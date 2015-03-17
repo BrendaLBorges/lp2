@@ -1,4 +1,4 @@
-public class Exercicio1_1{
+public class exercicio1_1{
         public static void main (String [] args){
                 String ciclano = args[0];
                 System.out.println("Meu nome eh " + ciclano);
