@@ -1,12 +1,12 @@
-public class Exercicio1_4{
+public class Exercicio1_5{
         public static void main (String [] args){
-                float a = 45;
-                float b = 20;
-                float c = 3;
-                float soma = a+b+c;
-                float subtracao = a-b-c;
-                float multiplicacao = a*b*c;
-                float divisao = a/b/c;
+                double a = 45;
+                double b = 20;
+                doulbe c = 3;
+                doulbe soma = a+b+c;
+                doulbe subtracao = a-b-c;
+                double multiplicacao = a*b*c;
+                double divisao = a/b/c;
                 
                 System.out.println ("O valor da soma foi: " + soma);
                 System.out.println ("O valor da subtracao foi: " + subtracao);
