@@ -1,0 +1,31 @@
+
+EXERCICIO 6
+
+Item 3:
+O valor da soma foi: 68
+O valor da multiplicacao foi: 2700
+O valor da divisao foi: 0
+O valor da subtracao foi: 22
+
+O resultado da divisão deu zero, pois 45/20/3=0,75(um valor que não é INTEIRO)
+
+
+Item 4:
+O valor da soma foi: 68.0
+O valor da multiplicacao foi: 2700.0
+O valor da divisao foi: 0.75
+O valor da subtracao foi: 22.0
+
+Os resultados, vieram em decimal, porque o ítem 4, solicitava o uso de FLOAT nas variáveis.
+
+Item 5
+O valor da soma foi: 68.0
+O valor da multiplicacao foi: 2700.0
+O valor da divisao foi: 0.75
+O valor da subtracao foi: 22.0
+
+Deu o mesmo resultado do Exercício4, pois se utiliza tanto float quanto double para representar números reais. 
+A diferença é que variáveis float exigem, geralmente, 4 bytes de memória para serem armazenadas enquanto double necessitam de 8 bytes.
+
+
+
