@@ -1,10 +1,10 @@
-public class Exercicio1_5{
+public class exercicio1_5{
         public static void main (String [] args){
                 double a = 45;
                 double b = 20;
-                doulbe c = 3;
-                doulbe soma = a+b+c;
-                doulbe subtracao = a-b-c;
+                double c = 3;
+                double soma = a+b+c;
+                double subtracao = a-b-c;
                 double multiplicacao = a*b*c;
                 double divisao = a/b/c;
                 
