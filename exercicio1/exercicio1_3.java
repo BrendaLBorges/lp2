@@ -10,7 +10,7 @@ public class exercicio1_3{
 		int SOMA=A+B+C;
 		int SUBTRACAO=A-B-C;
 		int DIVISAO=A/B/C;
-		int MULTIPLICACAO=A*B*C
+		int MULTIPLICACAO=A*B*C;
 		
 	System.out.println (“A SOMA FOI:”+ SOMA);
 	System.out.println (“A SUBTRACAO FOI:”+ SUBTRACAO);
