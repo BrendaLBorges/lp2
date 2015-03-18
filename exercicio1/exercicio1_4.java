@@ -4,6 +4,7 @@ public class exercicio1_4{
 		float a=45;
 		float b=20;
 		float c=3;
+		
 		float soma=a+b+c;
 		float subtracao=a-b-c;
 		float divisao=a/b/c;
