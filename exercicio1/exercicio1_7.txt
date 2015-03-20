@@ -1,0 +1,10 @@
+Variavel 3 = 7
+Variavel 4 = 10.5
+Variavel 5 = 10.0
+Variavel 4 e maior que 10.0
+Variavel 5 e menor igual a 10.0
+
+
+1. A variavel4 deu 10,5 devido ao float introduzido na variável e pelo fato das variáveis declaradas (1 e 2) serem inteiras.(teria que dar um numero decimal, já que a variavel é FLOAT FLOAT.)
+
+	A variavel5  deu 10 pois a varivavel1 e a variavel2 são inteiras e o float é ignorado.
