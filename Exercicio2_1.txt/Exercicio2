@@ -1,9 +1,0 @@
-	TIPO ABSTRATO DE DADOS TAD: Seria sucintamente, encapsular atributos, manipulando-os através de operações; e quem vai manipulá-los será os MÉTODOS DE ESTRUTURA.
-
-	CLASSE: (Conceito Estático que representa um modelo Abstrato; Define as características do mundo real)  É um TAD, e define os atributos e operações que o objeto pode fazer, representando-o e definindo-o.
-
-	OBJETO: Materialização da classe; a instância(aloca espaço de memória para o objeto) de uma classe, ou seja, apresenta um conceito dinâmico.
-
- 	Em JAVA,  TUDO o que  não é estático precisa ter um objeto.  
-	
-	MENSAGEM:As mensagens são a maneira de comunicação entre objetos e detalham quais métodos(operações) devem ser usadas.
