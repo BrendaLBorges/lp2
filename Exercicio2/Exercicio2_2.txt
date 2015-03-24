@@ -1,0 +1,1 @@
+  A palavra-chave new tem a utilidade de instanciar(alocar espaço na memória para o objeto), inicializando as variáveis de instância e posteriormente chamando seu construtor.
