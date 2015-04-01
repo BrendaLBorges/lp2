@@ -8,7 +8,6 @@ public class VerificadorCpf {
         int a, b;
         int cpfn[] = new int[11];
         int i = 0, j = 0;
-        float resto;
 
         System.out.print("Escreva o CPF: ");
         cpf = input.next();
